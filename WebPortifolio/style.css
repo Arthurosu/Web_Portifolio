@@ -1,0 +1,12 @@
+div.frame{
+    display: flex;
+    flex-direction: column;
+}
+div.intro{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+div.projects{
+    
+}
